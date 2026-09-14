@@ -22,8 +22,8 @@ O resumo é escrito na ótica de um advogado especialista em licitações públi
 ## Instalação
 
 ```bash
-git clone https://github.com/Andcaio/Progrma-de-leitura-de-licita--es.git
-cd Progrma-de-leitura-de-licita--es
+git clone https://github.com/Andcaio/Resume-Licita.git
+cd Resume-Licita
 pip install -r requirements.txt
 ```
 
